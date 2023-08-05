@@ -28,7 +28,7 @@ git clone https://github.com/laravel/laravel.git my-laravel-application
 Clone this repository.
 
 ```sh
-git clone https://github.com/dehsilvadeveloper/nestjs-notification.git setup-docker-laravel10
+git clone https://github.com/dehsilvadeveloper/setup-docker-laravel10.git setup-docker-laravel10
 ```
 
 ### Step 3
